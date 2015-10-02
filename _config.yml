@@ -1,0 +1,60 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+gems:
+  - jemoji
+
+# Site settings
+title: "The 13th ETSF Young Researcher's Meeting"
+description: New frontiers in modeling electronic excited-states from confined systems to complex aggregates.<br>
+   6-10/10/2016 Kings College London, London, UK
+
+email: a-mail@mail.mail
+#blog logo
+logo: "/assets/images/logo.png"
+# blog cover
+cover: "/assets/images/blackboard.jpg"
+
+name: 'YRM2016'
+author: 'YRM2016'
+author_image: "/assets/images/logo.png"
+
+paginate:	3
+
+url: "https://yrm2016.github.io" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+# twitter_handle: '@dirkfabisch'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+#   - icon:	twitter
+#     url:	https://twitter.com/dirkfabisch
+#     desc: Follow me on twitter
+#     share_url: http://twitter.com/share
+#     share_title: ?text=
+#     share_link: "&amp;url="
+
+ - icon:	facebook
+   url:	https://www.facebook.com/YRM2016
+   desc: Connect with me facebook
+   share_url: https://www.facebook.com/sharer.php
+   share_title: ?t=
+   share_link: "&amp;u="
+ #
+ #  - icon:	github
+ #    url:	https://github.com/yrm2016
+ #    desc:	Fork me on github
+ #    share_url:
+ #    share_title:
+ #    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
