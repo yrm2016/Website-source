@@ -5,5 +5,10 @@ permalink: /program/
 image: /assets/images/maxresdefault.jpg
 ---
 
-To be announced.
-<br><br><br><br><br><br><br><br><br><br>
+Detailed program will be announced as soon as possible. Talks will be divided in five thematic sessions:
+
+* Strongly correlated electrons
+* Spectroscopy and dielectric properties
+* Modern trends in quantum magnetism
+* Electon-phonon coupling and thermal properties of matter
+* Quantum systems interacting with the environment  

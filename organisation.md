@@ -10,5 +10,3 @@ The ETSF YRM 2016 is organised by post-docs and Ph.d. students of King's College
 
 ## Supporting Committee
 This section will be completed soon.
-
-<br><br><br><br><br><br><br><br><br><br>
