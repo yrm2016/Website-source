@@ -26,7 +26,7 @@ image: /assets/images/maxresdefault.jpg
 * **Gian Giacomo Asara**,   Post Doctoral Research Associate, King’s College London, London, UK
 * **Scott McKechnie**,   Post Doctoral Research Associate, King’s College London, London, UK
 * **Stuart A Bogatko**,   Post Doctoral Research Associate, Imperial College London, London, UK
-* **Evgeny Plechanov**,   Post Doctoral Research Associate, King’s College London, London, UK
+* **Evgeny Plekhanov**,   Post Doctoral Research Associate, King’s College London, London, UK
 * **Savio Laricchia**,   Post Doctoral Research Associate, King’s College London, London, UK
 
 ## Supporting organisers
