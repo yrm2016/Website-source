@@ -9,11 +9,11 @@ image: /assets/images/maxresdefault.jpg
 
 The program of the meeting is divided in five thematic sessions:
 
-* Modern trends in quantum magnetism
-* Phonons, vibrations and thermal properties
-* Spectroscopy and dielectric properties
-* Strongly correlated electrons
-* Quantum systems in interaction with the environment
+* Session 1 : Modern trends in quantum magnetism
+* Session 2 :Phonons, vibrations and thermal properties
+* Session 3 :Spectroscopy and dielectric properties
+* Session 4 :Strongly correlated electrons
+* Session 5 :Quantum systems in interaction with the environment
 
 Each session will be introduced by a keynote talk. 
 The meeting will be opened by an introductory talk on ground-state techniques intended to introduce basic concepts common to all sessions.
@@ -30,8 +30,8 @@ The detailed program will be announced as soon as possible.
 Confirmed invited speakers are
 
 * Introductory talk: **Dr. Chiara Gattinoni**, University College London, London, UK 
-* Modern trends in quantum magnetism: to be announced
-* Phonons, vibrations and thermal properties: **Dr. Giorgia Fugallo**, LSI - Ecole Polytechnique, Palaiseau, France
-* Spectroscopy and dielectric properties: **Dr. Lorenzo Sponza**, King's College London, London, UK
-* Strongly correlated electrons: **Dr. James LeBlanc**, University of Michigan, Ann Arbor, Michigan, USA
-* Quantum systems in interaction with the environment: **Dr. David Gao**, University College London, London, UK
+* Session 1 : to be announced
+* Session 2 : **Dr. Giorgia Fugallo**, LSI - Ecole Polytechnique, Palaiseau, France
+* Session 3 : **Dr. Lorenzo Sponza**, King's College London, London, UK
+* Session 4 : **Dr. James LeBlanc**, University of Michigan, Ann Arbor, Michigan, USA
+* Session 5 : **Dr. David Gao**, University College London, London, UK
