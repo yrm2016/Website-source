@@ -35,3 +35,4 @@ Confirmed invited speakers are
 * Session 3 : **Dr. Lorenzo Sponza**, King's College London, London, UK
 * Session 4 : **Dr. James LeBlanc**, University of Michigan, Ann Arbor, Michigan, USA
 * Session 5 : **Dr. David Gao**, University College London, London, UK
+* Gender-issue talk: **Dr. Toni Collis**, EPCC - University of Edinburgh, Edinbourg, UK
