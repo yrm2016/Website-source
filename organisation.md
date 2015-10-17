@@ -7,7 +7,7 @@ image: /assets/images/maxresdefault.jpg
 ## Organising Board
 <b></b>
 
-* **Pooya Azarhoosh**,   PhD student, King’s College London, London, UK
+* <u>**Pooya Azarhoosh**,   PhD student, King’s College London, London, UK</u>
 * **Alena Vishina**,   PhD student, King’s College London, London, UK
 * **Bartosz Barzdajn**,   PhD student, Imperial College London, London, UK
 * **Chiara Paris**,   PhD student, King’s College London, London, UK
@@ -36,3 +36,5 @@ image: /assets/images/maxresdefault.jpg
 * **Prof. Rex Godby**, Department of physics, University of York, York, UK
 * **Prof. Alessandro De Vita**, Department of physics, King’s College London, London, UK
 * **Prof. Lucia Reining**, LSI - Ecole Polytechnique, Palaiseau, France
+
+The student conference will also benefit from the local support of the EPSRC Center for Doctoral Training in Cross-Disciplinary Approaches to Non-Equilibrium Systems (**CANES**) at King's College London.

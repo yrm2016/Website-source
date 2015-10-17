@@ -14,7 +14,7 @@ To give young scientists opportunity to discover research in the private sector,
 
 ## What is the ETSF?
 
-The European Theoretical Spectroscopy Facility (ETSF) (www.etsf.eu) is a knowledge center for theoretical spectroscopy carrying out state-of-the-art research on theoretical and computational methods for studying electronic and optical properties of materials. This network comprises many facilities and laboratories in Europe and USA performing research in real materials, encouraging the collaboration among research teams. Besides theoretical development, it aims to strengthen the link to experimental groups and industrial research.
+The European Theoretical Spectroscopy Facility (ETSF) ([www.etsf.eu](www.etsf.eu)) is a knowledge center for theoretical spectroscopy carrying out state-of-the-art research on theoretical and computational methods for studying electronic and optical properties of materials. This network comprises many facilities and laboratories in Europe and USA performing research in real materials, encouraging the collaboration among research teams. Besides theoretical development, it aims to strengthen the link to experimental groups and industrial research.
 
 ## Previous YRMs
 * [12th ETSF Young Researchers' Meeting, Paris (France)  1-6 June 2015] (http://etsf.polytechnique.fr/yrm2015/)
