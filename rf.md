@@ -15,4 +15,4 @@ Please note that:
 * Incomplete registrations will not be considered. If you require to change your information please contact the organizers directly.
 * Finalised registration and accommodation fees will be posted shortly.
 
-To register please **[click here](https://docs.google.com/forms/d/1L1D8yRcu34SEZz_5vvuS4fY9D9RgqU5diJZb1fKmT_0)** This link direct you to a new page with a registration form.
+To register please **[click here](https://docs.google.com/forms/d/1L1D8yRcu34SEZz_5vvuS4fY9D9RgqU5diJZb1fKmT_0)**. This link will direct you to a new page with the registration form.
