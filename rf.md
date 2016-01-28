@@ -13,7 +13,6 @@ Please note that:
 * Registered applicants will be informed after the submission deadline whether their participation and contribution is confirmed.
 * Priority is given to those who actively contribute to the meeting.
 * If you amend your registration please contact the organizers directly at <yrm-info@kcl.ac.uk>.
-
 * Finalised registration and accommodation fees will be posted shortly.
 
 To register please **[click here](https://docs.google.com/forms/d/1L1D8yRcu34SEZz_5vvuS4fY9D9RgqU5diJZb1fKmT_0)**. This link will direct you to a new page with the registration form.
