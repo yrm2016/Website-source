@@ -4,7 +4,7 @@ title: Program and Speakers
 permalink: /program/
 image: /assets/images/maxresdefault.jpg
 ---
-## Program 
+## Program
 <b></b>
 
 The program of the meeting is divided in five thematic sessions:
@@ -15,10 +15,10 @@ The program of the meeting is divided in five thematic sessions:
 * Session 4 : Strongly correlated electrons
 * Session 5 : Quantum systems in interaction with the environment
 
-Each session will be introduced by a keynote talk. 
+Each session will be introduced by a keynote talk.
 The meeting will be opened by an introductory talk on ground-state techniques intended to introduce basic concepts common to all sessions.
 
-A day will be dedicated to talks given by researchers from the private sector. 
+A day will be dedicated to talks given by researchers from the private sector.
 
 A non-scientific talk on gender-issue on computational science is also scheduled.
 
@@ -29,10 +29,10 @@ The detailed program will be announced as soon as possible.
 
 Confirmed invited speakers are
 
-* Introductory talk: **Dr. Chiara Gattinoni**, University College London, London, UK 
-* Session 1 : to be announced
+* Introductory talk: **Dr. Chiara Gattinoni**, University College London, London, UK
+* Session 1 : **Dr. Floarian Eich**, Max Planck institute for the structure and dynamics of matter
 * Session 2 : **Dr. Giorgia Fugallo**, LSI - Ecole Polytechnique, Palaiseau, France
 * Session 3 : **Dr. Lorenzo Sponza**, King's College London, London, UK
 * Session 4 : **Dr. James LeBlanc**, University of Michigan, Ann Arbor, Michigan, USA
 * Session 5 : **Dr. David Gao**, University College London, London, UK
-* Gender-issue talk : **Dr. Toni Collis**, EPCC - University of Edinburgh, Edinbourg, UK
+* Gender-issue talk : to be confirmed
