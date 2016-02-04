@@ -15,6 +15,6 @@ Please note that:
 * If you amend your registration please contact the organizers directly at <yrm-info@kcl.ac.uk>.
 * Finalised registration and accommodation fees will be posted shortly.
 
-The cost of registration is 100£ (200£ including accommodation).
+The cost of registration is £100 (£200 including accommodation).
 
 To register please **[click here](https://docs.google.com/forms/d/1L1D8yRcu34SEZz_5vvuS4fY9D9RgqU5diJZb1fKmT_0)**. This link will direct you to a new page with the registration form.
