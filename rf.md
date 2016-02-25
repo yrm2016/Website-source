@@ -4,7 +4,7 @@ title: Registration and Fees
 permalink: /rf/
 image: /assets/images/maxresdefault.jpg
 ---
-<font color="red"><b> Deadline for abstract submission is set at 11/03/2016! </b></font><br>
+<font color="red"><b> Deadline for abstract submission is set at 18/03/2016! </b></font><br>
 <font color="blue"> Deadline for payment is 15/04/2016/.</font>
 
 Please note that:
