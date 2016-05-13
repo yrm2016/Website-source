@@ -107,7 +107,7 @@ Confirmed invited speakers are
 * **11:25** - Session 4 (Strongly correlated electrons)- talk 4
 * **11:50** - Session 4 (Strongly correlated electrons)- talk 5
 * **12:15** - Lunch
-* **13:15** - Session 4 (Strongly correlated electrons)- talk 6
+* **13:15** - Session 4 (Strongly correlated electrons)- talk 6 
 * **13:40** - Session 5 (Systems in interaction with the environment) - opening
 * **14:25** - Session 5 (Systems in interaction with the environment) - talk 1
 * **14:50** - Session 5 (Systems in interaction with the environment) - talk 2
