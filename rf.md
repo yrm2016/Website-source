@@ -10,7 +10,7 @@ The fee for the conference is:
 
 1. £100 without accommodation,
 1. £200 with accommodation (private room, the number of these is limited),
-1. £118 with accommodation (shared room)
+1. £180 with accommodation (shared room)
 
 <font color="red"><b> The rooms are booked for the nights from Sunday the 5th, to Thursday the 9th of June, since the conference starts on Monday morning and finishes at noon on Friday.</b></font><br>
 
