@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program and Speakers
+title: Programme and Speakers
 permalink: /program/
 image: /assets/images/maxresdefault.jpg
 ---
@@ -9,10 +9,10 @@ image: /assets/images/maxresdefault.jpg
 
 The program of the meeting is divided in five thematic sessions:
 
-* Session 1 : **Modern trends in quantum magnetism** <br>
+* Session 1 : **Phonons, vibrations and thermal properties** <br>
+The coupling between electronic and lattice degrees of freedom is at the heart of a wide range of fundamental phenomena such as, thermoelectricity, conventional superconductivity, hot carrier effects relevant, for instance, to the energy industry (storage, transmission and conversion). As the required accuracy of quantitative predictions increases with the technological progress, the reliability and physical validity of some approximations made in this field are questioned, leading to the development of more advanced yet expensive methods.
+* Session 2 : **Modern trends in quantum magnetism** <br>
   Quantum magnetism in real materials arises from the interaction at the atomic scale between spin degrees of freedom. It is at the origin of several remarkable phenomena such as unconventional superconductivity, spin waves, itinerant ferromagnetism, spin-liquid behaviour, frustrated-spin systems and many more. This ever growing field has promising applications in hot technological topics such as spintronics memory storage, and quantum computation.
-* Session 2 : **Phonons, vibrations and thermal properties** <br>
-  The coupling between electronic and lattice degrees of freedom is at the heart of a wide range of fundamental phenomena such as, thermoelectricity, conventional superconductivity, hot carrier effects relevant, for instance, to the energy industry (storage, transmission and conversion). As the required accuracy of quantitative predictions increases with the technological progress, the reliability and physical validity of some approximations made in this field are questioned, leading to the development of more advanced yet expensive methods.
 * Session 3 : **Spectroscopy and dielectric properties** <br>
   The study of the interaction between light and matter has a paramount importance from both a theoretical and technological point of view. Many of the most common spectroscopic techniques (photoemission, optical absorption, inelastic X-Ray scattering) can be described theoretically by means of time-dependent DFT (TDDFT), GW approximations or by solving the Bethe-Salpeter equation (BSE). The development and expansion of existing and new theories in this field is crucial to get deep insight into fundamental mechanisms at work, which may be inaccessible through other means.
 * Session 4 : **Strongly correlated electrons** <br>
@@ -42,84 +42,84 @@ Confirmed invited speakers are
 * Session 5 : **Dr. David Gao**, University College London, London, UK
 * Gender-issue talk : **Prof. Carla Molteni**, King's College London, UK
 
-## Program
+## Programme
 <br>
+
 #### Monday
-<!-- <h4 style="text-align: center;" markdown="1">Monday</h4> -->
-* **09:30** - Registration
-* **10:00** - Industry Session - talk 1 - John Hammersley (Overleaf)
-* **10:55** - Coffee
-* **11:20** - Industry Session - talk 2 - Tom Miller (IOP)
-* **12:15** - Industry Session - talk 3 - Ivan Rungger (NPL)
+
+* **09:30** - Registration and welcome speech
+* **10:00** - Industry session - **Tom Miller** (_Institute of Physics_)
+* **10:55** - Coffee break
+* **11:20** - Industry session - **John Hammersley** (_Overleaf_)
+* **12:15** - Industry session - **Ivan Rungger** (_National Physical Laboratory_)
 * **13:10** - Lunch
 * **14:40** - Q&A
-* **15:40** - Poster Session and job market
+* **15:40** - Poster session and job market
 
 #### Tuesday
-<!-- <h4 style="text-align: center;" markdown="1">Tuesday</h4> -->
-* **09:00** - Key Note speaker
-* **09:50** - Session 1 (Modern trends in quantum magnetism) - openner
-* **10:40** - Coffee Break
-* **11:10** - Session 1 (Modern trends in quantum magnetism) - talk 1
-* **11:35** - Session 1 (Modern trends in quantum magnetism) - talk 2
-* **12:00** - Session 1 (Modern trends in quantum magnetism) - talk 3
-* **12:25** - Session 1 (Modern trends in quantum magnetism) - talk 4
-* **12:50** - Lunch
-* **14:20** - Session 1 (Modern trends in quantum magnetism) - talk 5
-* **14:45** - Session 1 (Modern trends in quantum magnetism) - talk 6
-* **15:10** - Coffee
-* **15:40** - Session 2 (Phonons, vibrations and thermal properties) - openner
-* **16:30** - Session 2 (Phonons, vibrations and thermal properties) - talk 1
-* **16:55** - Session 2 (Phonons, vibrations and thermal properties) - talk 2
-* **17:20** - End
-* **Sport events**
+
+* **09:30** - Introductory talk - **Chiara Gattinoni** (_University College London_) -
+* **10:20** -  Phonons, vibrations and thermal properties - **Giorgia Fugallo** (_Ecole Polytechnque, Paris_) - Keynote
+* **11:10** - Coffee break
+* **11:40** -  Phonons, vibrations and thermal properties - **Jarvist Moore Frost** (_University of Bath_) - Disorder in Semiconductors for Photovoltaics
+* **12:05** -  Phonons, vibrations and thermal properties - **Alex Aziz** (_University of Reading_) - Electronic and phonon transport in shandite-structured Ni<sub>3</sub>Sn<sub>2</sub>S<sub>2</sub>
+* **12:30** -  Phonons, vibrations and thermal properties - **Nicholas Pike** (_University of Liege_) - Boltzmann Transport Calculations in Systems with Electron-phonon Coupling
+* **12:55** -  Phonons, vibrations and thermal properties - **Marios Zacharias** (_University of Oxford_) - Stochastic approach to phonon-assisted optical absorption
+* **13:20** - Lunch
+* **14:50** -  Phonons, vibrations and thermal properties - **Carla Verdi** (_University of Oxford_) - Fröhlich electron-phonon coupling from first principles
+* **15:15** -  Phonons, vibrations and thermal properties - **Pierre-François Lory** (_EPFL_) - Lattice dynamic and thermal conductivity in complex metallic alloys
+* **15:40** - Coffee break
+* **16:10** - Modern trends in quantum magnetism - **Florian Eich** (_MPI, Structure and Dynamics of Matter, Hamburg_) - Keynote
+* **17:00** - Modern trends in quantum magnetism - **Tristan Müller** (_Max-Planck-Institute for Microstructure Physics_) - Exchange functional for the magnetic dipole interaction
+* **17:25** - Modern trends in quantum magnetism - **Franziska Simone Hegner** (_Institute of Chemical Research of Catalonia_) - The limits of density functional theory in the case of Prussian blue
+* **17:50** - End
 
 #### Wednesday
-<!-- <h4 style="text-align: center;" markdown="1">Wednesday</h4> -->
-* **09:00** - Session 2 (Phonons, vibrations and thermal properties) - talk 3
-* **09:25** - Session 2 (Phonons, vibrations and thermal properties) - talk 4
-* **09:50** - Session 3 (Spectroscopy and dielectric properties) - openner
-* **10:40** - Coffee break
-* **11:10** - Session 3 (Spectroscopy and dielectric properties) - talk 1
-* **11:35** - Session 3 (Spectroscopy and dielectric properties) - talk 2
-* **12:00** - Session 3 (Spectroscopy and dielectric properties) - talk 3
-* **12:25** - Lunch
-* **14:00** - Session 3 (Spectroscopy and dielectric properties) - talk 4
-* **14:25** - Session 3 (Spectroscopy and dielectric properties) - talk 5
-* **14:50** - Session 3 (Spectroscopy and dielectric properties) - talk 6
-* **15:15** - Session 3 (Spectroscopy and dielectric properties) - talk 7
-* **15:40** - Coffee break
-* **16:10** - Session 3 (Spectroscopy and dielectric properties) - talk 8
-* **16:35** - Session 3 (Spectroscopy and dielectric properties) - talk 9
-* **17:00** - Session 3 (Spectroscopy and dielectric properties) - talk 10
-* **17:25** - End
+
+* **09:30** - Modern trends in quantum magnetism - **Vamshi Mohan Katukuri** (_EPFL_) - Spin-orbit enhanced correlations and novel magnetic ground states and excitations in 5d oxides
+* **09:55** - Modern trends in quantum magnetism - **E. Lora da Silva** (_Univeristy of Bath_) - Phase Stability of the Halide Perovskite CsSnI<sub>3</sub>
+* **10:20** - Spectroscopy and dielectric properties - **Lorenzo Sponza** (_King's College London_) - Keynote
+* **11:10** - Coffee break
+* **11:40** - Spectroscopy and dielectric properties - **Yuanpeng Zhang** (_Queen Mary,  University of London_) - Local structure of amorphous and nanoscale systems by numerical XANES analysis
+* **12:05** - Spectroscopy and dielectric properties - **Norah Hoffmann** (_Max Planck institute for the structure and dynamics of matter_) - Linear-response formalism in density functional theory for quantum electrodynamics
+* **12:30** - Spectroscopy and dielectric properties - **Josua Pecher** (_Philipps-Universität Marburg_) - Adsorption dynamics and spectroscopic characterization of large molecules on surfaces using density functional theory
+* **12:55** - Lunch
+* **14:30** - Spectroscopy and dielectric properties - **Jianqiang Zhou** (_Ecole Polytechnque, Paris_) - An Improved description of Fermion-Plasmon coupling in Green's function calculations
+* **14:55** - Spectroscopy and dielectric properties - **Brian Cunningham** (_Queen's University Belfast_) - Quasiparticle Self-consistent GW and the Bethe Salpeter equation
+* **15:20** - Spectroscopy and dielectric properties - **Marilena Tzavala** (_Ecole Polytechnique, Paris_) - Building approximations to capture excitonic effects of correlated electrons
+* **15:45** - Spectroscopy and dielectric properties - **Walter Tarantino** (_Ecole Polytechnque, Paris_) - Physical and Unphysical Solutions in Many-Body Theories
+* **16:10** - Coffee break
+* **16:40** - Spectroscopy and dielectric properties - **Marco Vanzini** (_Ecole Polytechnque, Paris_) - Effective approaches for electron spectroscopy
+* **17:05** - Spectroscopy and dielectric properties - **Rajarshi Sinha Roy** (_Centre Interdisciplinaire de Nanoscience de Marseille_) - Optical properties of noble metal clusters: Comparing Non-local Classical and TDDFT Calculations
+* **17:30** - Spectroscopy and dielectric properties - **Ryan McMillan** (_Queen's University Belfast_) - Projected equations-of-motion approach to hybrid quantum/classical dynamics in dielectric-plasmonic composites
+* **17:55** - End
+* **18:45** - Footbal
 
 #### Thursday
-<!-- <h4 style="text-align: center;" markdown="1">Thursday</h4> -->
-* **09:00** - Session 4 (Systems in interaction with the environment) - openner
-* **09:50** - Session 4 (Systems in interaction with the environment) - talk 1
-* **10:15** - Session 4 (Systems in interaction with the environment) - talk 2
+
+* **09:00** - Strongly correlated electrons - **James LeBlanc** (_University of Michigan_) - Keynote
+* **09:50** - Strongly correlated electrons - **Stefano Di Sabatino** (_Ecole Polytechnque, Paris_) - Photoemission Spectra from Reduced Density Matrices: the Band Gap in Strongly Correlated Systems
+* **10:15** - Strongly correlated electrons - **Paul Sharp** (_Univeristy of York_) - The Metric Space Approach to Quantum Mechanics
 * **10:40** - Coffee break
-* **11:10** - Session 4 (Systems in interaction with the environment) - talk 3
-* **11:35** - Session 4 (Systems in interaction with the environment) - talk 4
-* **12:00** - Session 4 (Systems in interaction with the environment) - talk 5
+* **11:10** - Strongly correlated electrons - **Swagata Acharya** (_Indian Institute of Technology_) - Do Soft Electronic Fluctuations Drive p-Wave Pairing in Sr<sub>2</sub>RuO<sub>4</sub>?
+* **11:35** - Strongly correlated electrons - **Daniel Karlsson** (_Jyväskylä University_) - Partial Phi-derivability and analytic properties in many-body perturbation theory, and implications for sum rules
+* **12:00** - Strongly correlated electrons - **Lorenzo Cevolani** (_Institut d'Optique Graduate School_) - Dynamics of correlations in long-range quantum systems
 * **12:25** - Lunch
-* **14:00** - Gender issue
+* **14:00** - Gender issues talk
 * **15:00** - Coffee break
-* **15:30** - Session 4 (Systems in interaction with the environment) - talk 6
-* **15:55** - Session 4 (Systems in interaction with the environment) - talk 7
-* **16:20** - Session 4 (Systems in interaction with the environment) - talk 8
+* **15:30** - Strongly correlated electrons - **Jaakko Nissinen** (_Instituut-Lorentz for Theoretical Physics_) - Two-dimensional quantum liquid crystals
+* **15:55** - Strongly correlated electrons - **Sophie  Chauvin** (_Ecole Polytechnique, Paris_) - Correlation effects in the extended Hubbard model on a triangular lattice from Extended Dynamical Mean Field Theory: Single-particle spectra and screening
+* **16:20** - Strongly correlated electrons - **Miroslav Hopjan** (_Lund University_) - TDDFT+NEGF approximations for time-dependent Hubbard-type Hamiltonians
 * **16:45** - End
-* **Social dinner**
+* **20:00** - Social dinner
 
 #### Friday
-<!-- <h4 style="text-align: center;" markdown="1">Friday</h4> -->
-* **09:00** - Session 5 (Systems in interaction with the environment) - opener
-* **09:50** - Session 5 (Systems in interaction with the environment) - talk 1
-* **10:15** - Session 5 (Systems in interaction with the environment) - talk 2
+
+* **09:50** - Systems in interaction with the environment - **Charline Lema** (_University of Maine_) - A multi-scale description of the irradiation from quantum mechanics to molecular mechanics
+* **10:15** - Systems in interaction with the environment - **Outi Vilhelmiina Kontkanen** (_Universite de Mons_) - Modeling of perylene monoimide based dye molecules and NiO (100) for p-type dye sensitized solar cells
 * **10:40** - Coffee break
-* **11:10** - Session 5 (Systems in interaction with the environment) - talk 3
-* **11:35** - Session 5 (Systems in interaction with the environment) - talk 4
-* **12:00** - Session 5 (Systems in interaction with the environment) - talk 5
+* **11:10** - Systems in interaction with the environment - **Bastien Belzunces** (_Université Paul Sabatier_) - Pesticide interaction with environmentally important cations: A molecular dynamics and DFT study of metamitron and fenhexamid
+* **11:35** - Systems in interaction with the environment - **Silvio Pipolo** (_Universite Pierre et Marie Curie_) - Time-Dependent Configuration Interaction Single (TD-CIS) for Molecules Close to Nanoparticles
+* **12:00** - Systems in interaction with the environment - **Tim Joachim Zuehlsdorff** (_University of Cambridge_) - Studying excitations of organic chromophores in complex environments
 * **12:25** - Farewell
 * **13:00** - End
