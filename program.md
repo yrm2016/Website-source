@@ -44,6 +44,7 @@ Confirmed invited speakers are
 
 ## Programme
 <br>
+Mondays and Friday talks will take place in K-1.14 room of the King's Building (King’s College Strand Campus), while from Tuesday until Thursday in room K2.31. St. David's Room of the King's building will be designated for posters and the coffee breaks. For more information please refer to the [Venue](../venue/) section of the website.
 
 #### Monday
 
