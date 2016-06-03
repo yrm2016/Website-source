@@ -36,5 +36,7 @@ image: /assets/images/maxresdefault.jpg
 * **Prof. Rex Godby**, Department of physics, University of York, York, UK
 * **Prof. Alessandro De Vita**, Department of physics, King’s College London, London, UK
 * **Prof. Lucia Reining**, LSI - Ecole Polytechnique, Palaiseau, France
+* **Julia Kilpatrick**, PGR Support Officer & Research Administrator, King’s College London
+* **Megan Grace-Hughes**, Research Project Manager and Digital Media Officer, King’s College London
 
 The student conference will also benefit from the local support of the EPSRC Center for Doctoral Training in Cross-Disciplinary Approaches to Non-Equilibrium Systems (**CANES**) at King's College London.

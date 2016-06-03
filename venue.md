@@ -6,7 +6,7 @@ image: /assets/images/maxresdefault.jpg
 ---
 ## Important update
 
-<font color="red"><b> The registration is to take place in the Foyer of King's Building, Strand campus, King's College London </b></font>.
+<font color="red"><b> The registration is to take place in the St. David's Room of King's Building, Strand campus, King's College London </b></font>.
 
 ## The conference
 <br>
