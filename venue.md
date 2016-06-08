@@ -19,9 +19,6 @@ Mondays and Friday talks will take place in <font color="blue"><b>K-1.14</b></fo
 ![The strand campus](../assets/images/campus_small.png)
 ![ King's Building floor plan](../assets/images/kingsMaps.png)
 
-## Social enents
-To be updated
-
 ## Accomodation
 
 * Private rooms:

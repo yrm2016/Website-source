@@ -112,10 +112,11 @@ Mondays and Friday talks will take place in K-1.14 room of the King's Building (
 * **15:55** - Strongly correlated electrons - **Sophie  Chauvin** (_Ecole Polytechnique, Paris_) - Correlation effects in the extended Hubbard model on a triangular lattice from Extended Dynamical Mean Field Theory: Single-particle spectra and screening
 * **16:20** - Strongly correlated electrons - **Miroslav Hopjan** (_Lund University_) - TDDFT+NEGF approximations for time-dependent Hubbard-type Hamiltonians
 * **16:45** - End
-* **20:00** - Social dinner
+* **19:00** - Social dinner
 
 #### Friday
 
+* **09:00** - Systems in interaction with the environment - **David Gao** - Keynote
 * **09:50** - Systems in interaction with the environment - **Charline Lema** (_University of Maine_) - A multi-scale description of the irradiation from quantum mechanics to molecular mechanics
 * **10:15** - Systems in interaction with the environment - **Outi Vilhelmiina Kontkanen** (_Universite de Mons_) - Modeling of perylene monoimide based dye molecules and NiO (100) for p-type dye sensitized solar cells
 * **10:40** - Coffee break
